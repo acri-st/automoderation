@@ -83,6 +83,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- **Issues** 🐞: Report bugs and feature requests on [Github Issues](https://github.com/acri-st/sandbox-ui/issues)
-- **Merge requests** 🔀: All ongoing pull requests [Github Pull requests](https://github.com/acri-st/sandbox-ui/pulls)
+- **Issues** 🐞: Report bugs and feature requests on [Github Issues](https://github.com/acri-st/automoderation/issues)
+- **Merge requests** 🔀: All ongoing pull requests [Github Pull requests](https://github.com/acri-st/automoderation/pulls)
 - **Contact** ✉️: Reach out to the maintainers at [srv_dsy@acri-st.fr](mailto:srv_dsy@acri-st.fr)
