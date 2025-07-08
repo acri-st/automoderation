@@ -1,4 +1,4 @@
-# DESP-AAS AutoModeration
+# AutoModeration
 
 
 ## Table of Contents
